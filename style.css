@@ -1,0 +1,63 @@
+#glo1{
+	background-color: #27F5C7
+}
+.youcaninsert{
+	float: left
+	background-color:#27F5C7;
+	
+}
+#font1{
+	/*float: right;*/
+	margin-left: 250px;
+	background-color:#27F5C7;
+	color: black;
+	height: 333px;
+	width: 600px;
+
+}
+#h10{
+	font-size: 50px;
+	color: red;
+
+}
+#div01{
+	margin-left: 250px;
+	float: center;
+	margin-right: 0px;
+}
+#h11{
+	font-size: 30px;
+	color: blue;
+}
+
+.img2{
+	float: right;
+	background-color:blue;
+}
+#img01{
+	float: right;
+
+}
+#img02{
+	margin-left: 250px;
+	float: left;
+}
+#glo3{
+	color: black;
+	margin-left: 250px;
+}
+#glo4{
+	background-color: pink;
+}
+#center1{
+	font-size: 50px;
+	font-family: 'Chilanka', cursive;
+}
+#center2{
+	font-size: 30px;
+	font-family: 'Chilanka', cursive;
+}
+#font2{
+	font-family: 'Chilanka', cursive;
+font-family: 'Sansita Swashed', cursive;
+}
